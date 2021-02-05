@@ -1,0 +1,3 @@
+# HYTEC-pipeline: A shell script that performs pre-processing, tag extraction
+# and SSCS generation in the HYTEC-seq method
+# Based on samtools, bwa, TagXtractor and SSCScreator
